@@ -20,7 +20,7 @@ Tenho experiência com HTML, CSS, JavaScript, JQuery, Bootstrap, SASS e Figma.
 
 <div align="center">
 
-![Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,sass,gulp,less,jquery,vscode,git,bootstrap,figma&perline=12)
+![Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,nodejs,sass,gulp,less,jquery,vscode,git,figma&perline=12)
 <br>
 
 </div>
