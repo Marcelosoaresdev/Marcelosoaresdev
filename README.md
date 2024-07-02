@@ -7,7 +7,7 @@ Sou um estudante de programação apaixonado por tecnologia. No momento meu foco
 
 
 Estou em busca da minha primeira oportunidade de emprego. Meu sonho é trabalhar com Desenvolvimento Web Front-End.
-Tenho experiência com HTML, CSS, JavaScript, JQuery, Bootstrap, SASS e Figma.
+Tenho experiência com HTML, CSS, JavaScript, JQuery, Bootstrap, LESS, SASS, Gulp, Grunt e Figma.
 
 *******
 
