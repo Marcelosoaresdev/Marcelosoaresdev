@@ -21,6 +21,8 @@ Tenho experiência com HTML, CSS, JavaScript, JQuery, Bootstrap, LESS, SASS, Gul
 <div align="center">
 
 ![Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,nodejs,sass,gulp,less,jquery,vscode,git,figma&perline=12)
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/grunt.svg" alt="Grunt" width="48" height="48">
+
 <br>
 
 </div>
