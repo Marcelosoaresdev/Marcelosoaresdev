@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=verdana&pause=1000&color=ffff&size=40&center=true&vCenter=true&width=1000&lines=Front-end+Developer!)](https://git.io/typing-svg)
 
 
-Sou um estudante de programação apaixonado por tecnologia. No momento meu foco atual é Desenvolvimento Web.
+Sou um estudante de programação apaixonado por tecnologia. No momento, meu foco atual é Desenvolvimento Web. Porém, o curso que estou fazendo é de Desenvolvedor Fullstack Java. Optei por começar pelo Frontend.
 
 
 Estou em busca da minha primeira oportunidade de emprego. Meu sonho é trabalhar com Desenvolvimento Web Front-End.
