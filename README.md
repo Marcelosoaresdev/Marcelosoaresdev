@@ -7,7 +7,7 @@ Sou um estudante de programação apaixonado por tecnologia. No momento, meu foc
 
 
 Estou em busca da minha primeira oportunidade de emprego. Meu sonho é trabalhar com Desenvolvimento Web Front-End.
-Tenho experiência com HTML, CSS, JavaScript, JQuery, Vue.js, Typescript, Bootstrap, LESS, SASS, Gulp, Grunt e Figma.
+Tenho experiência com HTML, CSS, JavaScript, React.js, Tailwindc, JQuery, Vue.js, Typescript, Bootstrap, LESS, SASS, Gulp, Grunt e Figma.
 
 *******
 
@@ -20,7 +20,7 @@ Tenho experiência com HTML, CSS, JavaScript, JQuery, Vue.js, Typescript, Bootst
 
 <div align="center">
 
-![Skills](https://skillicons.dev/icons?i=html,css,js,vue,ts,bootstrap,sass,gulp,less,jquery,figma&perline=12)
+![Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,vue,ts,bootstrap,sass,gulp,less,jquery,figma&perline=12)
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/grunt.svg" alt="Grunt" width="48" height="48">
 
 <br>
