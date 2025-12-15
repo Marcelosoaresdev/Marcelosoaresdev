@@ -1,10 +1,15 @@
 <h1 align="center">Olá! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Me chamo Marcelo Soares!</h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=verdana&pause=1000&color=ffff&size=40&center=true&vCenter=true&width=1000&lines=Desenvolvedor+Frontend;React.js+|+JavaScript+|+TypeScript)](https://git.io/typing-svg)
+# Olá! 👋 Me chamo Marcelo Soares
 
-💻 **Desenvolvedor Frontend** com experiência na criação de **interfaces modernas**, **sistemas web responsivos** e **aplicações escaláveis**.  
-🚀 Atuação em projetos reais como **plataformas de cursos** e **sistemas de inscrição online**, com foco em **SEO**, **performance** e **usabilidade**.  
-🔗 Experiência na integração do **frontend com MongoDB Atlas** e **APIs RESTful**, aplicando **code splitting**, **lazy loading** e **otimização de imagens** (Sharp/WebP) para máxima eficiência.  
+## Desenvolvedor Frontend | React • TypeScript • JavaScript
+
+Sou desenvolvedor frontend com foco em **React**, atuando na construção de **interfaces modernas, escaláveis e orientadas a performance**.  
+Trabalho com aplicações reais que lidam com **grande volume de dados**, priorizando **experiência do usuário, organização de estado e eficiência de renderização**.
+
+Tenho vivência em **integração frontend–backend**, consumo de **APIs REST**, otimização de carregamento (lazy loading, code splitting) e **boas práticas de arquitetura em aplicações web**.  
+Estou constantemente expandindo meus conhecimentos em **backend, arquitetura e sistemas distribuídos**, buscando evoluir para um perfil cada vez mais completo.
 
 ---
 
