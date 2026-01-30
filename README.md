@@ -1,15 +1,15 @@
 <h1 align="center">Olá! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Me chamo Marcelo Soares!</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=verdana&pause=1000&color=ffff&size=40&center=true&vCenter=true&width=1000&lines=Desenvolvedor+Frontend;React.js+|+JavaScript+|+TypeScript)](https://git.io/typing-svg)
-# Olá! 👋 Me chamo Marcelo Soares
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=verdana&pause=1000&color=ffff&size=40&center=true&vCenter=true&width=1000&lines=Software+Developer;React.js+|+JavaScript+|+TypeScript|+Node.js)](https://git.io/typing-svg)
+## Software Developer
 
-## Desenvolvedor Frontend | React • TypeScript • JavaScript
+Desenvolvedor focado em construção de aplicações web modernas, escaláveis e orientadas a performance.
 
-Sou desenvolvedor frontend com foco em **React**, atuando na construção de **interfaces modernas, escaláveis e orientadas a performance**.  
-Trabalho com aplicações reais que lidam com **grande volume de dados**, priorizando **experiência do usuário, organização de estado e eficiência de renderização**.
+Atuo com **React, Node.js e TypeScript**, desenvolvendo interfaces e integrações backend com APIs REST. Tenho experiência com aplicações que lidam com grande volume de dados, priorizando organização de estado, eficiência de renderização e arquitetura limpa.
 
-Tenho vivência em **integração frontend–backend**, consumo de **APIs REST**, otimização de carregamento (lazy loading, code splitting) e **boas práticas de arquitetura em aplicações web**.  
-Estou constantemente expandindo meus conhecimentos em **backend, arquitetura e sistemas distribuídos**, buscando evoluir para um perfil cada vez mais completo.
+Possuo vivência em integração frontend–backend, otimização de carregamento (lazy loading, code splitting), cache de dados e boas práticas de engenharia de software.
+
+Estou constantemente expandindo meus conhecimentos em **backend, arquitetura, segurança e sistemas distribuídos**, buscando evoluir para um perfil full stack cada vez mais completo.
 
 ---
 
